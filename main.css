@@ -28,7 +28,8 @@ a{
   gap: 10px;
 }
 .pizzas .pizza img{
-  width: 200px;
+  width: 80%;
+  border-radius: 10px;
   height: 200px;
 }
 .pizzas .pizza span{
